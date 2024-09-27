@@ -41,7 +41,7 @@ pipeline {
     environment {
         GIT_REPO1 = 'https://github.com/SaifmElnagar/Backend-jenkins'
         GIT_REPO2 = 'https://github.com/SaifmElnagar/Proxy-jenkins'
-        GIT_REPO3 = 'https://github.com/SaifmElnagar/Orange-Jenkins-Project'
+        GIT_REPO3 = 'https://github.com/halimo22/Jenkins_project'
         DOCKER_REGISTRY = 'halimo2'
     }
     stages {
