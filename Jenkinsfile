@@ -39,9 +39,9 @@ pipeline {
         }
     }
     environment {
-        GIT_REPO1 = 'https://github.com/halimo22/backend'
-        GIT_REPO2 = 'https://github.com/halimo22/proxy'
-        GIT_REPO3 = 'https://github.com/halimo22/Jenkins_project'
+        GIT_REPO1 = 'https://github.com/SaifmElnagar/Backend-jenkins'
+        GIT_REPO2 = 'https://github.com/SaifmElnagar/Proxy-jenkins'
+        GIT_REPO3 = 'https://github.com/SaifmElnagar/Orange-Jenkins-Project'
         DOCKER_REGISTRY = 'halimo2'
     }
     stages {
